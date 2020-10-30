@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "6181047634",
+    "firebase_url": "https://stocky-4b582.firebaseio.com",
+    "project_id": "stocky-4b582",
+    "storage_bucket": "stocky-4b582.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6181047634:android:c96afb4164aa8643dcfe8b",
+        "android_client_info": {
+          "package_name": "com.example.stocky"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6181047634-dl4ncpc0rfp46npa0gvirarahv9547cs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA_hEjrrjT_6LZFxs6AaWVJpXkwyC3px8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6181047634-dl4ncpc0rfp46npa0gvirarahv9547cs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

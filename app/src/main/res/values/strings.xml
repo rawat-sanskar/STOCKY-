@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Stocky</string>
+    <string name="close">FireNotes</string>
+    <string name="open">FireNotes</string>
+    <string-array name="drop">
+        <item>Pieces</item>
+        <item>Bori</item>
+        <item>Peti</item>
+    </string-array>
+</resources>
